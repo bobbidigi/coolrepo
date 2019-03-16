@@ -204,7 +204,8 @@ p.lead {
 }
 
 .navbar-brand img {
-     width: 70%;
+     /* height: 50%; */
+     width: 60%;
 }
 
 @media (min-width: 992px) {
